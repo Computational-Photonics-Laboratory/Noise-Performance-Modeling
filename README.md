@@ -10,9 +10,9 @@ The results are visualized on line graphs after loading the file directory for a
 
 When generating figures with entirely new parameters, it will take several minutes and generate three figures:
 
-Figure 1: Energy Jitter Power Spectral Density;
-Figure 2: Frequency Jitter Power Spectral Density;
-Figure 3: Phase Jitter Power Spectral Density;
+Figure 1: Energy Jitter Power Spectral Density; <br>
+Figure 2: Frequency Jitter Power Spectral Density; <br>
+Figure 3: Phase Jitter Power Spectral Density; <br>
 
 These figures are identical to Figure 4 of the aforementioned article.
 
